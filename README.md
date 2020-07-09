@@ -1,4 +1,10 @@
-### Hi there 👋
+### Meet Kattni
+
+I'm sponsored by [Adafruit](https://adafruit.com) to work on [CircuitPython](https://circuitpython.org). 
+
+- Pronouns: she/her
+- You can find me on Twitter: @kattni
+- You can find me on the [Adafruit Discord server](https://adafru.it/discord): @kattni#1123
 
 <!--
 **kattni/kattni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
