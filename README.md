@@ -1,8 +1,13 @@
 ### Meet Kattni
 
-I'm sponsored by [Adafruit](https://adafruit.com) to work on [CircuitPython](https://circuitpython.org). 
+I am a mentor, technical writer, open source community leader and embedded software developer. I am passionate about mentoring, and creating and maintaining thorough, accessible documentation, and welcoming, supportive, open source communities.
+
+If you're interested in helping me do more of this, or to work directly with you on these topics, consider [sponsoring me on GitHub](https://github.com/sponsors/kattni/).
+
+I'm sponsored by [Adafruit](https://adafruit.com) to work part-time on [CircuitPython](https://circuitpython.org). 
 
 - Pronouns: she/her
+- My new home on the internet: https://kattni.com
 - You can find me on Twitter: @kattni
 - You can find me on the [Adafruit Discord server](https://adafru.it/discord): @kattni#1123
 
