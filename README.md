@@ -6,6 +6,8 @@ I am a creator, maker, photographer, programmer, intermittent chef, one-time gar
 
 I am now pursuing my passions full time. I am passionate about learning new things, creating thorough documentation, and sharing what I know and learn. You can find project builds, tech tutorials, and approachable information here on GitHub, on [my blog](https://kattni.com), and on [my Patreon](https://patreon.com/kattni).
 
+I am the Conference Chair for PyOhio 2024. Keep an eye out [here](https://www.pyohio.org/2024) for updates.
+
 I spent the last five years as an open source community leader, mentor, technical writer, embedded software developer, library manager, and intermittent embedded hardware designer sponsored by Adafruit to work with the CircuitPython project. 
 
 ### Sponsor Kattni on GitHub
