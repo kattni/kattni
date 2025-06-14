@@ -8,7 +8,7 @@ I am now pursuing my passions full time. I am passionate about learning new thin
 
 I am the Conference Chair for PyOhio 2025. Keep an eye out [here](https://www.pyohio.org/2025) for updates.
 
-I spent 2017-2023 as an open source community leader, mentor, technical writer, embedded software developer, library manager, and intermittent embedded hardware designer working with Adafruit to on the CircuitPython project. 
+I spent 2017-2023 as an open source community leader, mentor, technical writer, embedded software developer, library manager, and intermittent embedded hardware designer working with Adafruit on the CircuitPython project. 
 
 ### Sponsor Kattni on GitHub
 
